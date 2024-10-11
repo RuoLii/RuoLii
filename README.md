@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](https://github.com/RuoLii/pic-bad/blob/master/sundries/preview.gif)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RuoLii/RuoLii/output/github-contribution-grid-snake-dark.svg">
